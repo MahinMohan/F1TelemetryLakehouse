@@ -1,0 +1,1 @@
+print('Flink job placeholder')
